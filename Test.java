@@ -19,9 +19,10 @@ public class Test {
             System.out.println("다시 입력해주세요. 2~9 입니다.");
           }
         }
-      } else if (input == 2){
+      } else if (input == 2) {
+        scan.close();
         return;
-      }else{
+      } else {
         System.out.println("다시 입력해주세요.");
       }
     }
