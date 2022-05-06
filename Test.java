@@ -10,7 +10,7 @@ public class Test {
       input = scan.nextInt();
       if (input == 1) {
         while (true) {
-          System.out.println("출력할 단을 입력하세요. 2~9 까지 입력");
+          System.out.println("출력할 단을 입력하세요. 2 ~ 9 까지 입력");
           input = scan.nextInt();
           if (input > 1 && input < 10) {
             GD.play(input);
