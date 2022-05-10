@@ -1,4 +1,4 @@
-package test;
+package first.school.test;
 
 public class modifier {
 

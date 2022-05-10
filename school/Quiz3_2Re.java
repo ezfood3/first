@@ -1,4 +1,4 @@
-package school;
+package first.school;
 
 import java.util.Arrays;
 import java.util.Comparator;

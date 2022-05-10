@@ -1,4 +1,5 @@
-package school;
+
+package first.school;
 
 import java.util.*;
 

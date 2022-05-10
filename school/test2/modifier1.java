@@ -1,6 +1,6 @@
-package test2;
+package first.school.test2;
 
-import test.modifier;
+import first.school.test.modifier;
 
 public class modifier1 extends modifier {
 

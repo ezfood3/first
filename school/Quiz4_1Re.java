@@ -1,5 +1,5 @@
 
-package school;
+package first.school;
 
 public class Quiz4_1Re {
   public static void main(String[] args) {

@@ -1,4 +1,4 @@
-package school;
+package first.school;
 
 // 미완성 메서드가 하나라도 있으면 미완성 클래스
 abstract class Player {

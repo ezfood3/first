@@ -1,4 +1,4 @@
-package test2;
+package first.school.test2;
 
 class Mango {
   protected String color = "yellow";

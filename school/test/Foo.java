@@ -1,6 +1,6 @@
-package test;
+package first.school.test;
 
-import test2.Apple;
+import first.school.test2.Apple;
 
 class bar extends Apple {
   protected void prtColor() {
